@@ -2,7 +2,7 @@ import React from 'react';
 import { StatusBar } from 'react-native';
 
 import { NavigationContainer } from '@react-navigation/native'
-import Routs from './src/routs';
+import Routes from './src/routes';
 
 export default function App() {
   return (
